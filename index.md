@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages Mark Iafrate
+### It's with a heavy heart I share the news that BEX is shutting down on September 15, 2021.
 
-You can use the [editor on GitHub](https://github.com/markiafrate/markiafrate.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I want to thank each and every one of you who support us over the past 7 years. It has been the ride of our lives watching BEX grow from a tiny platform launched in February of 2014 (remember when we didn't launch with cellar functionality?!) to the amazing community it grew to of over 35,000 members.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm well aware of how cliche this sounds, but it was you, the users, that made this community special. Throughout the years I received emails and messages from many of you, expressing how BEX helped you try beers you always wanted to try or how trading helped you make friends you still stay in touch with today. Others simply said thanks for building the platform. Believe it or not, I printed a lot of those out and put them into a notebook I still how (lame, I know). 
 
-### Markdown
+Whether you were an Ambassador, avid supporter, or a casual user - you have no idea how much we appreciated your support. It made all the long nights and thought times worth it 1,000 times over.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/markiafrate/markiafrate.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> Cheers 🍻
+> 
+> Mark and the BEX Team

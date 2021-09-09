@@ -19,9 +19,16 @@
   <body>
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
+        {% unless page.hero %}
         <div class="masthead-logo" >
           <img alt="" src="{{ "/assets/img/masthead-logo.png" | relative_url }}" width="144.5" style="max-width: 100%;align-self: center;flex: 0 0 auto;box-shadow: none;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;border: 0;height: auto;outline: none;text-decoration: none;vertical-align: bottom;box-sizing: border-box !important;">
         </div>
+        {% endunless %}
+        {% if page.hero %}
+          <img alt="" src="{{ page.hero | relative_url }}" style="max-width: 100%;align-self: center;flex: 0 0 auto;box-shadow: none;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;border: 0;height: auto;outline: none;text-decoration: none;vertical-align: bottom;box-sizing: border-box !important;">
+
+
+        {% endif %}
       </header>
       <section>
 

@@ -1,2 +1,5 @@
 theme: jekyll-theme-modernist
 title: BEX - Get the Beer you want
+url: "https://thebeerexchange.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap

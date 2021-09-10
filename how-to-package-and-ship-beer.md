@@ -192,7 +192,7 @@ Thanks to everyone who helped put this together! We gathered lots of great advic
 * Luke Schmuecker
 
 ### Contact Information
-Mark Iafrate [mark@thebeerexchange.io](mailto:mark@thebeerexchange.io)
+Mark Iafrate [markiafrate@gmail.com](mailto:markiafrate@gmail.com)
 
 [@BeerExchangeApp](https://twitter.com/beerexchangeapp) | [@TheBeerExchange](https://instagram.com/thebeerexchange) | [Join our Facebook group!](https://www.facebook.com/groups/thebeerexchange/)
 

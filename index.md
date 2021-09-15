@@ -1,4 +1,4 @@
-### It's with a heavy heart I share the news that BEX is shutting down on September 15, 2021.
+### It's with a heavy heart I share the news that BEX has shut down as of September 15, 2021.
 
 I want to thank each and every one of you who support us over the past 7 years. It has been the ride of our lives watching BEX grow from a tiny platform launched in February of 2014 (remember when we didn't launch with cellar functionality?!) to the amazing community it grew to of over 35,000 members.
 
